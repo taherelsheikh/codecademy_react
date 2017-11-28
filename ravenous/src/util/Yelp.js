@@ -1,5 +1,5 @@
 const clientId = '<insert Yelp ID here>';
-const secret = '<inster Yelp client secret here>';
+const secret = '<insert Yelp client secret here>';
 let accessToken = '';
 
 const Yelp = {
